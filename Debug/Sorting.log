@@ -1,0 +1,15 @@
+﻿Build started 23.03.2016 16:31:01.
+     1>Project "C:\Users\Casper\Desktop\Computer Algorithm Design\Sorting\Sorting.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sorting.cpp
+         Sorting.cpp
+     1>c:\users\casper\desktop\computer algorithm design\sorting\sorting.cpp(173): warning C4101: 'a' : unreferenced local variable
+       Link:
+         D:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Casper\Desktop\Computer Algorithm Design\Sorting\Debug\Sorting.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Casper\Desktop\Computer Algorithm Design\Sorting\Debug\Sorting.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Casper\Desktop\Computer Algorithm Design\Sorting\Debug\Sorting.lib" /MACHINE:X86 /SAFESEH Debug\main.obj
+         Debug\Sorting.obj
+         Sorting.vcxproj -> C:\Users\Casper\Desktop\Computer Algorithm Design\Sorting\Debug\Sorting.exe
+     1>Done Building Project "C:\Users\Casper\Desktop\Computer Algorithm Design\Sorting\Sorting.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.41
